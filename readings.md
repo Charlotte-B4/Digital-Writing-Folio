@@ -1,5 +1,9 @@
-## Read
-- The kinetic poem "Taroko Gorge"
-- The electronic poem "The Gathering Cloud"
-- The hypertext fiction "First Draft of the Revolution"
-- The interactive fiction work "Shade"
+<h3>First Draft of the Revolution - Emily Short and Liza Daly</h3>
+  <h6>- https://collection.eliterature.org/3/work.html?work=first-draft-of-the-revolution</h6>
+<p>It took me some time to figure out how this text worked, with the hyperlinks and the whole concept of rewriting the letters, but once I did, I found the whole experience of this text very interesting. Through the experience of umming and ahhing over rewrites, it showed the characters and their relationships in a way that felt intuitive. Whether it was intended or not, I also found the fantasy element of the letters being transported instantly to be ironic against the constant rewriting, because I assumed that the person at the other end would be able to read different edits in real time. I guess the story, despite being text based, benefits from the digital form due to how it could symbolise the instantaneity of digital messaging.
+</p>
+<br/>
+<h3>Shade - Andrew Plotkin</h3>
+  <h6>- https://iplayif.com/?story=https%3A%2F%2Fifarchive.org%2Fif-archive%2Fgames%2Fzcode%2Fshade.z5</h6>
+<p>Shade was my first time reading an interactive fiction of this kind, but I figured out how to progress fairly quickly by pulling out some video game knowledge. I got extremely immersed in the mystery and how little tidbits of unease will suddenly pop up. The interactivity definitely ups the suspense because it is your actions which lead to these progressions happening—I found myself getting worried, for example, when I went to ‘check’ something, but as the reader I myself had to pull the trigger to find out what would happen next. I really enjoyed the surrealist plot twist, (just like with any other fiction text, I tried analysing it), and since I like writing strange and surrealist elements myself I realised how this might be creatively applied through the digital medium. 
+</p>
