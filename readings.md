@@ -1,6 +1,7 @@
 # Readings
 -[ELC Responses](#ELC-Responses)<br>
 -[Beyond Taxonomy](#taxonomy)<br>
+-[Digital poesis impulse](#impulse)<br>
 
 ## ELC Responses <a id="ELC-Responses"></a>
 ### Volume 1 piece - The Cape by J.R. Carpenter, 2005
@@ -21,5 +22,10 @@ Yet another piece by Carpenter. I found the environmental angle fascinating—wh
 I like definitions—they let me feel in full control of my knowledge, without caveats or fear of imperfections. A point of confusion coming into this subject was what constituted digital writing. This reading helped assure that it wasn’t just me, but that digital writing can be difficult to define in general, due to the diverse possibilities offered by technology. The piece emphasises the usefulness of taxonomy in offering a field critical legitimacy, but my personal takeaway from this text was on the fluidness of digital writing, and that I should worry less about finding the ‘correct’ answer, and let my creativity take over within the practice.
 
 The note of digital writing being like an instrument the ‘user could be said to play,’ was a fascinating comparison to interactivity in writing. It sparked ideas for me of how digital fiction may allow for new avenues in drawing a reader into a piece, providing a perspective that may not be obtainable through prose alone. Perhaps it acts almost like a midway point between the purely imaginative/mental experience of a story, and a physical, acted, real-world experience.
+
+## Digital poesis impulse: A methodology of creative coding with GPT as co-pilot - Jenny Hedley <a id="impulse"></a>
+Jenny Hedley’s (2024:1) essay describes coding as an ‘iterative practice that builds upon itself, akin to solving a logic puzzle’. This is an idea I have felt since I began this subject, and started to learn basic code—I hope the digital writing study will help to satiate the logical half of my brain, whilst also offering countless creative possibilities.
+
+The text talks about the possibilities of bringing together a collage of different writing/media elements for the creation of a piece, and allowing meaning to be created from that chaos. I see how this could potentially bring a sense of logic to certain chaotic bits of writing that might otherwise feel overwhelming.
 
 ##
