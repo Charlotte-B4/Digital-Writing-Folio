@@ -1,4 +1,7 @@
-## ELC Responses
+# Readings
+-[✓ ELC Responses](#ELC-Responses)
+
+## ELC Responses <a id="ELC-Responses"></a>
 ### Volume 1 piece - The Cape by J.R. Carpenter, 2005
 This piece combines the written poetry with government-created images. It opens with a grid contents-page, and upon hover of each image a poetic caption appears. Each image is also a hyperlink, which takes the reader to each page. It appears like a simple storybook, but contains certain other digital elements, such as the screen We only ever went to visit her once, in which a second image moves in front of a larger one, creating the illusion of zooming into the larger one with a magnifying glass. Another screen also contains a radio recording. 
 
