@@ -1,5 +1,6 @@
 # Readings
--[✓ ELC Responses](#ELC-Responses)
+-[ELC Responses](#ELC-Responses)<br>
+-[Beyond Taxonomy](#taxonomy)<br>
 
 ## ELC Responses <a id="ELC-Responses"></a>
 ### Volume 1 piece - The Cape by J.R. Carpenter, 2005
@@ -16,4 +17,9 @@ It took me some time to figure out how this text worked, with the hyperlinks and
 ### Volume 4 piece - The Gathering Cloud by J.R. Carpenter, 2016
 Yet another piece by Carpenter. I found the environmental angle fascinating—where is this digital internet cloud actually being stored? At first glance, the piece looks as if it could be replicated physically, only consisting of written words and collage images; however, the longer you stay on a page, the more digital nuances you notice, such as animations, and images which only appear on the page after a certain amount of time. Seeing as the piece is digital, and stored in the cloud itself, there is also an additional layer of irony that this is now a necessary method of getting this environmental message across.
 
-## 
+## 'Beyond Taxonomy: Digital Poetics and the Problem of Reading' by Talan Memmott <a id="taxonomy"></a>
+I like definitions—they let me feel in full control of my knowledge, without caveats or fear of imperfections. A point of confusion coming into this subject was what constituted digital writing. This reading helped assure that it wasn’t just me, but that digital writing can be difficult to define in general, due to the diverse possibilities offered by technology. The piece emphasises the usefulness of taxonomy in offering a field critical legitimacy, but my personal takeaway from this text was on the fluidness of digital writing, and that I should worry less about finding the ‘correct’ answer, and let my creativity take over within the practice.
+
+The note of digital writing being like an instrument the ‘user could be said to play,’ was a fascinating comparison to interactivity in writing. It sparked ideas for me of how digital fiction may allow for new avenues in drawing a reader into a piece, providing a perspective that may not be obtainable through prose alone. Perhaps it acts almost like a midway point between the purely imaginative/mental experience of a story, and a physical, acted, real-world experience.
+
+##
