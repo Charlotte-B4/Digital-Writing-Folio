@@ -1,5 +1,7 @@
 # Readings
 -[ELC Responses](#ELC-Responses)<br>
+-[What is it?](#Hayles)<br>
+-[“Decolonize” E-Literature?](#weed)<br>
 -[Beyond Taxonomy](#taxonomy)<br>
 -[Digital poesis impulse](#impulse)<br>
 
@@ -18,12 +20,22 @@ It took me some time to figure out how this text worked, with the hyperlinks and
 ### Volume 4 piece - The Gathering Cloud by J.R. Carpenter, 2016
 Yet another piece by Carpenter. I found the environmental angle fascinating—where is this digital internet cloud actually being stored? At first glance, the piece looks as if it could be replicated physically, only consisting of written words and collage images; however, the longer you stay on a page, the more digital nuances you notice, such as animations, and images which only appear on the page after a certain amount of time. Seeing as the piece is digital, and stored in the cloud itself, there is also an additional layer of irony that this is now a necessary method of getting this environmental message across.
 
+## Electronic Literature: What is it? by N. Katherine Hayles <a id="Hayles"><a>
+What sets digital writing apart from simply being a digitised version of an analogue work, according to this text, is that it is “digital-born”—created on and to be read on a computer from the start. Still, this raises an interesting question about where the line is drawn between the two. If a piece appears similar enough to a traditional print work, not digital enough, is it truly a piece of electronic literature?
+ 
+N. Katherine Hayles categorises the periods of electronic literature into three generations, the first being pre-internet, the second being the early internet post 1995. It’s obvious in hindsight that the generations of electronic literature would’ve only emerged in the last few decades, but it is still fascinating to see how quickly it has evolved alongside the digital age. 
+ 
+In class, we also discussed the third-generation of e-literature that we are currently considered to be in. It considered the rise of social media in our society. The involvement of social media in the equation complicates the definition further. A post to social media is “digital-born”, but at what stage is that considered e-literature?
+
+## “Decolonize” E-Literature? On Weeding the E-lit Garden by Kathi Inman Berens <a id="weed"><a>
+
+
 ## 'Beyond Taxonomy: Digital Poetics and the Problem of Reading' by Talan Memmott <a id="taxonomy"></a>
 I like definitions—they let me feel in full control of my knowledge, without caveats or fear of imperfections. A point of confusion coming into this subject was what constituted digital writing. This reading helped assure that it wasn’t just me, but that digital writing can be difficult to define in general, due to the diverse possibilities offered by technology. The piece emphasises the usefulness of taxonomy in offering a field critical legitimacy, but my personal takeaway from this text was on the fluidness of digital writing, and that I should worry less about finding the ‘correct’ answer, and let my creativity take over within the practice.
 
 The note of digital writing being like an instrument the ‘user could be said to play,’ was a fascinating comparison to interactivity in writing. It sparked ideas for me of how digital fiction may allow for new avenues in drawing a reader into a piece, providing a perspective that may not be obtainable through prose alone. Perhaps it acts almost like a midway point between the purely imaginative/mental experience of a story, and a physical, acted, real-world experience.
 
-## Digital poesis impulse: A methodology of creative coding with GPT as co-pilot - Jenny Hedley <a id="impulse"></a>
+## Digital poesis impulse: A methodology of creative coding with GPT as co-pilot by Jenny Hedley <a id="impulse"></a>
 Jenny Hedley’s (2024:1) essay describes coding as an ‘iterative practice that builds upon itself, akin to solving a logic puzzle’. This is an idea I have felt since I began this subject, and started to learn basic code—I hope the digital writing study will help to satiate the logical half of my brain, whilst also offering countless creative possibilities.
 
 The text talks about the possibilities of bringing together a collage of different writing/media elements for the creation of a piece, and allowing meaning to be created from that chaos. I see how this could potentially bring a sense of logic to certain chaotic bits of writing that might otherwise feel overwhelming.
