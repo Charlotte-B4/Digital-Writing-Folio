@@ -1,10 +1,14 @@
 # Readings
--[ELC Responses](#ELC)<br>
--[What is it?](#Hayles)<br>
--[“Decolonize” E-Literature?](#weed)<br>
--[Digital poesis impulse](#impulse)<br>
--[Notes on Shade](#shade)<br>
--[Beyond Taxonomy](#taxonomy)<br>
+- [ELC Responses](#ELC)<br>
+- [What is it?](#Hayles)<br>
+- [“Decolonize” E-Literature?](#weed)<br>
+- [Digital poesis impulse](#impulse)<br>
+- [Notes on Shade](#shade)<br>
+- [Beyond Taxonomy](#taxonomy)<br>
+- [Oulipo](#oulipo)<br>
+- [Perspectives on ergodic literature](#ergodic)<br>
+- [On savoir-faire](#savoir-faire)<br>
+- [Poetic Playlands](#playlands)<br>
 
 ## ELC Responses <a id="ELC"></a>
 ### Volume 1 piece - The Cape by J.R. Carpenter, 2005
@@ -52,4 +56,10 @@ I like definitions—they let me feel in full control of my knowledge, without c
 
 The note of digital writing being like an instrument the ‘user could be said to play,’ was a fascinating comparison to interactivity in writing. It sparked ideas for me of how digital fiction may allow for new avenues in drawing a reader into a piece, providing a perspective that may not be obtainable through prose alone. Perhaps it acts almost like a midway point between the purely imaginative/mental experience of a story, and a physical, acted, real-world experience.
 
-## 
+## Oulipo : a primer of potential literature (Introduction) - translated and edited by Warren F. Motte, Jr. <a id="oulipo"></a>
+
+## Cybertext : perspectives on ergodic literature by Espen J. Aarseth. <a id="ergodic"></a>
+
+## On savoir-faire by Emily Short <a id="savoir-faire"></a>
+
+## Poetic Playlands: Poetry, Interface, and Video Game Engines by Jason Nelson <a id="playlands"></a>
