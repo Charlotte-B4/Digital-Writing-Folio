@@ -28,7 +28,11 @@ N. Katherine Hayles categorises the periods of electronic literature into three 
 In class, we also discussed the third-generation of e-literature that we are currently considered to be in. It considered the rise of social media in our society. The involvement of social media in the equation complicates the definition further. A post to social media is “digital-born”, but at what stage is that considered e-literature?
 
 ## “Decolonize” E-Literature? On Weeding the E-lit Garden by Kathi Inman Berens <a id="weed"><a>
+This piece explores the intriguing perspectives on the categorisation of e-literature, especially in its broader third generation. It talks about the culture of recirculation and remixing dominant on social media, and wonders whether this process of anonymising an original author is rightful grounds to disconnect it from the category of e-literature. This also notes a flaw in e-literature’s integration with academia, since that ‘legitimacy’ requires clear authorship.
 
+With how widespread social media is, it is also debated whether authorial intention is required to legitimise e-literature, perhaps since a lack of this feels like a threat to the effort and intention of the field. Of course, the elitist issues with academia as a whole can also be examined.
+
+A final perspective noted in this piece is whether e-literature should be separated from the wider literary sphere. In such a digital age, the two are more entwined than ever, but should that separation have existed in the first place?
 
 ## 'Beyond Taxonomy: Digital Poetics and the Problem of Reading' by Talan Memmott <a id="taxonomy"></a>
 I like definitions—they let me feel in full control of my knowledge, without caveats or fear of imperfections. A point of confusion coming into this subject was what constituted digital writing. This reading helped assure that it wasn’t just me, but that digital writing can be difficult to define in general, due to the diverse possibilities offered by technology. The piece emphasises the usefulness of taxonomy in offering a field critical legitimacy, but my personal takeaway from this text was on the fluidness of digital writing, and that I should worry less about finding the ‘correct’ answer, and let my creativity take over within the practice.
@@ -40,4 +44,4 @@ Jenny Hedley’s (2024:1) essay describes coding as an ‘iterative practice tha
 
 The text talks about the possibilities of bringing together a collage of different writing/media elements for the creation of a piece, and allowing meaning to be created from that chaos. I see how this could potentially bring a sense of logic to certain chaotic bits of writing that might otherwise feel overwhelming.
 
-##
+## Notes on Shade by And
