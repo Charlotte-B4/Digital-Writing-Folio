@@ -2,8 +2,9 @@
 -[ELC Responses](#ELC-Responses)<br>
 -[What is it?](#Hayles)<br>
 -[“Decolonize” E-Literature?](#weed)<br>
--[Beyond Taxonomy](#taxonomy)<br>
 -[Digital poesis impulse](#impulse)<br>
+-[Notes on Shade](#shade)<br>
+-[Beyond Taxonomy](#taxonomy)<br>
 
 ## ELC Responses <a id="ELC-Responses"></a>
 ### Volume 1 piece - The Cape by J.R. Carpenter, 2005
@@ -34,14 +35,21 @@ With how widespread social media is, it is also debated whether authorial intent
 
 A final perspective noted in this piece is whether e-literature should be separated from the wider literary sphere. In such a digital age, the two are more entwined than ever, but should that separation have existed in the first place?
 
-## 'Beyond Taxonomy: Digital Poetics and the Problem of Reading' by Talan Memmott <a id="taxonomy"></a>
-I like definitions—they let me feel in full control of my knowledge, without caveats or fear of imperfections. A point of confusion coming into this subject was what constituted digital writing. This reading helped assure that it wasn’t just me, but that digital writing can be difficult to define in general, due to the diverse possibilities offered by technology. The piece emphasises the usefulness of taxonomy in offering a field critical legitimacy, but my personal takeaway from this text was on the fluidness of digital writing, and that I should worry less about finding the ‘correct’ answer, and let my creativity take over within the practice.
-
-The note of digital writing being like an instrument the ‘user could be said to play,’ was a fascinating comparison to interactivity in writing. It sparked ideas for me of how digital fiction may allow for new avenues in drawing a reader into a piece, providing a perspective that may not be obtainable through prose alone. Perhaps it acts almost like a midway point between the purely imaginative/mental experience of a story, and a physical, acted, real-world experience.
-
 ## Digital poesis impulse: A methodology of creative coding with GPT as co-pilot by Jenny Hedley <a id="impulse"></a>
 Jenny Hedley’s (2024:1) essay describes coding as an ‘iterative practice that builds upon itself, akin to solving a logic puzzle’. This is an idea I have felt since I began this subject, and started to learn basic code—I hope the digital writing study will help to satiate the logical half of my brain, whilst also offering countless creative possibilities.
 
 The text talks about the possibilities of bringing together a collage of different writing/media elements for the creation of a piece, and allowing meaning to be created from that chaos. I see how this could potentially bring a sense of logic to certain chaotic bits of writing that might otherwise feel overwhelming.
 
-## Notes on Shade by And
+## Shade by Andrew Plotkin | Enlightening Interactive Fiction: Andrew Plotkin’s Shade by Jeremy Douglass <a id="Shade"></a>
+Shade was my first time reading an interactive fiction of this kind. I was able to progress through the whole piece by pulling out some video game knowledge. I got extremely immersed in the surrealist mystery of the story, especially in the way little titbits of unease would subtly weave its way into your observations. I enjoy writing strange and surrealist elements myself, so I loved learning how this might be creatively applied though the digital medium. 
+
+I found that Shade’s interactivity upped its suspense, since these titbits were all the culmination of actions that you had dictated. I found myself getting worried, for example, when I went to ‘check’ something, but as the reader, I had to pull the trigger to find out what would happen next. Jeremy Douglass’ (2008) essay on Shade notes how the piece lures you to not trust your own eyes, the details that you are provided. While a Choose Your Own Adventure book can offer this level of interactivity to an extent, the technical capabilities and myriads of choices in Shade mean there isn’t time for that illusion of choice to be broken.
+
+Douglass (2008) also notes how a use of second person assists with a reader’s immersion, since even a first-person perspective ultimately points to a separate character in most of our minds, like we are listening to the narration of another person versus becoming that person. Like embodying a role in acting, interactive fiction is an ‘invitation to step into a role on a stage’ (Douglass 2008).
+
+## 'Beyond Taxonomy: Digital Poetics and the Problem of Reading' by Talan Memmott <a id="taxonomy"></a>
+I like definitions—they let me feel in full control of my knowledge, without caveats or fear of imperfections. A point of confusion coming into this subject was what constituted digital writing. This reading helped assure that it wasn’t just me, but that digital writing can be difficult to define in general, due to the diverse possibilities offered by technology. The piece emphasises the usefulness of taxonomy in offering a field critical legitimacy, but my personal takeaway from this text was on the fluidness of digital writing, and that I should worry less about finding the ‘correct’ answer, and let my creativity take over within the practice.
+
+The note of digital writing being like an instrument the ‘user could be said to play,’ was a fascinating comparison to interactivity in writing. It sparked ideas for me of how digital fiction may allow for new avenues in drawing a reader into a piece, providing a perspective that may not be obtainable through prose alone. Perhaps it acts almost like a midway point between the purely imaginative/mental experience of a story, and a physical, acted, real-world experience.
+
+## 
