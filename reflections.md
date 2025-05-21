@@ -65,3 +65,8 @@ what suggestions can you make for the reader experience?
 Requirement for final folio (200 words minimum - can be done any time this week) Update your folio with a summary and reflection on the feedback you recieved and dot points for next steps with planned dates for doing it.</strong>
 
 ## * Author Website Reflection (week 9) <a id="author"></a>
+
+
+
+ "I went straight to this because ___"
+ Developed an idea pretty early in
