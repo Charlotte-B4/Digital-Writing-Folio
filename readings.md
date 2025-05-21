@@ -5,8 +5,8 @@
 - [Digital poesis impulse](#impulse)<br>
 - [Notes on Shade](#shade)<br>
 - [Beyond Taxonomy](#taxonomy)<br>
-- [Oulipo](#oulipo)<br>
-- [Perspectives on ergodic literature](#ergodic)<br>
+- *[Oulipo](#oulipo)<br>
+- *[Perspectives on ergodic literature](#ergodic)<br>
 - [On savoir-faire](#savoir-faire)<br>
 - [Poetic Playlands](#playlands)<br>
 
@@ -56,10 +56,20 @@ I like definitions—they let me feel in full control of my knowledge, without c
 
 The note of digital writing being like an instrument the ‘user could be said to play,’ was a fascinating comparison to interactivity in writing. It sparked ideas for me of how digital fiction may allow for new avenues in drawing a reader into a piece, providing a perspective that may not be obtainable through prose alone. Perhaps it acts almost like a midway point between the purely imaginative/mental experience of a story, and a physical, acted, real-world experience.
 
-## Oulipo : a primer of potential literature (Introduction) - translated and edited by Warren F. Motte, Jr. <a id="oulipo"></a>
+## * Oulipo : a primer of potential literature (Introduction) - translated and edited by Warren F. Motte, Jr. <a id="oulipo"></a>
 
-## Cybertext : perspectives on ergodic literature by Espen J. Aarseth. <a id="ergodic"></a>
+## * Cybertext : perspectives on ergodic literature by Espen J. Aarseth. <a id="ergodic"></a>
 
 ## On savoir-faire by Emily Short <a id="savoir-faire"></a>
+This text explores the very interesting puzzle mechanic/magic system of Emily Short’s (2007) own interactive fiction text <em>Savoir-Faire</em>, which requires its reader to blend different objects together as a means of progressing its text-based story. I have always
+loved video games and their different methods of telling stories—where the actions
+you do, the puzzles you solve, all provide a sense of momentum and reward for
+the next note of story you will get to experience in a video game. It’s interesting
+to see the scope that a text such as this can take, using that mechanic of
+progression but delving deeper into that realm of story because of your efforts
+as the reader. 
 
 ## Poetic Playlands: Poetry, Interface, and Video Game Engines by Jason Nelson <a id="playlands"></a>
+Interestingly, this essay by Jason Nelson (2021) touched on the topic similar to the one I posed at the end of my case study assignment. I wondered how, since many people find traditional poetry difficult to read, digital and multimedia poetry might make this a more accessible form. 
+
+Games are considered more recreational, while poetry is often delegated to a school setting alone. Nelson (2021) states that the familiarity granted by the game-like forms offered in his digital poetry acts as a bridge between the two forms, and helps to expand the potential audience a poem might have had. He concludes this via his experience with his own works. He goes further, noting how certain digital poetic works of his have gained less traction by comparison, with a key difference being that they lack the interface of games, that ‘universal language’ (2021). It makes sense to me—often when I’m helping a reluctant child find a book to borrow at my library job, I ask them what another interest of theirs is, and this often acts as a bridge to get them reading (the interest is always soccer).
