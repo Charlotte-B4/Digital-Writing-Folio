@@ -1,7 +1,7 @@
 # Reflections
 - [Initial Thoughts](#thoughts)<br>
 - * [Defining E-Lit](#defining)<br>
-- * [Reflection - Coding and Coding Playground](#playground)<br>
+- [Reflection - Coding and Coding Playground](#playground)<br>
 - * [Learning Twine](#twine)<br>
 - [Reflection - Previous Student Works](#previous)<br>
 - * [Reflection - Prototype Feedback](#taxonomy)<br>
@@ -25,19 +25,16 @@ How are the works read differently from print literature?
 How is electronic literature different from print literature?
 What are the qualities of the works we might consider as qualities of electronic literature?</strong>
 
-## * Reflection on Learning Code, and the Coding Playground Task <a id="playground"></a>
-<strong>On finishing classes with HTML/CSS/JS, and completing the Coding Playground task
-CODING REFLECT QS
+## Reflection on Learning Code, and the Coding Playground Task <a id="playground"></a>
+<strong>How do you feel about coding now (vs week 1)?</strong><br>
+Despite intial confusion with figuring out GitHub, I wasn't too worried about the coding component at the start of this course. I knew there would be a lot of work to be done, but I've always been pretty good at figuring out basic technology. I did take these past weeks to try and brute-force as much HTML and CSS knowledge as I could in a short amount of time, using the websites codecademy.com and w3schools.com. I enjoyed this since it offered a bit of a break from the intense fluid creativity required for the majority of my writing course. I also like languages, and this, learning a <em>coding language</em>, helped satiate some of the interest for me.
 
- Now that we have completed the technical HTML/CSS/JS portion of our learning, reflect also on these questions:
+Moreover, while I did think of coding as a purely technical/logical field, I see now the creative potential of it. The Coding Playground task was instrumental in this since it let me flex some poetic creativety within these constraints, in a way I might not have otherwise. I see the poetntial of this area in letting me combine my creative and logic/language-based interests.
 
-
-How do you feel about coding now versus how you felt going into this in Week 1?
-Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?</strong>
+<strong>How has your hands-on engagement with interactive e-lit shifted the way you 'read' it? In what ways?</strong><br>
+I feel much less confused by e-lit works now, I guess since I have more of an understanding of how they're constructed. The whole presentation of these works seem much more obtainable, and when I read them now I can focus much more on their writing and stories themselves, what they seek to do. Previously, I was more focused on the systems the digital writers used, and those felt almost otherworldly. In a way it has been like learning to read again, where you have to learn the system of words and how they fit together in a sentence before you can appreaciate how an author is using that system in a novel.
 
 ## * Learning Twine <a id="twine"></a>
-### https://charlotte-b4.github.io/Learning-Twine/
-### (screenshots here)
 ### Reflection (week 4)
 <strong>passages - write about how I might use this</strong>
 
