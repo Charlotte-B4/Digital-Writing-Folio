@@ -4,9 +4,9 @@
 - [Reflection - Coding and Coding Playground](#playground)<br>
 - [Learning Twine](#twine)<br>
 - [Reflection - Previous Student Works](#previous)<br>
-- * [Reflection - Prototype Feedback](#taxonomy)<br>
+- [Reflection - Prototype Feedback](#feedback)<br>
 - * [Reflection - Workshopping](#workshop)<br>
-- * [Author Website](#author)<br>
+- [Author Website](#author)<br>
 
 ## Initial Thoughts (week 1) <a id="thoughts"></a>
 Fiction and poetry are the writing forms I practise the most often. Imagery is a strength that I rely on, so I’m particularly interested in how I may be able to use digital tools to either enhance my uses of this, or to conjure imagery in an alternative way altogether. I expect the digital writing lab to be a challenge, but despite my focus on the broad and creative field of writing, I also have a logical side. Therefore, I expect to enjoy learning some of the more technical aspects of the digital writing lab as well as new creative ideas.
@@ -49,13 +49,19 @@ I created these at the start of the piece's development, and had a great time wo
 
 I implemented image maps in my final digital piece. Notes on that can be found [here](./How-to-Use-a-Lift.md)
 
-## Reflection on Previous Student’s Works <a id="previous"></a>
+## Reflection on Previous Student’s Works (week 6) <a id="previous"></a>
 Though I came into this week having decided on an idea for my digital piece, looking at these three example works was creatively motivating. I loved the unsettling atmosphere of the piece ‘House on the Hill’, and though I won’t use Bitsy for my final piece, I wish to emulate a similar atmosphere, perhaps through music/sound effects too. Since I intend to use Twine, it was interesting to see how different the approaches were between the two pieces in that engine—one, titled ‘Stay Strong’, took a more story-based approach via a collage of dialogue elements, image, sound effects and occasional hyperlink-choices the reader could take. The other, ‘Snow Season’, transitioned more linearly (hyperlinks progressing the poem to its next screens), but it also made experimental use of text formatting—lots of different positioning, a small text size, and large scope background images—to heighten a sense of barrenness.
 
 These last few weeks I’ve felt overwhelmed by the seemingly never-ending possibilities and directions that digital writing can take. I decided this week that I needed to reign in my mind, and made a concrete decision for what I’ll be pursuing for my final piece, something that will hopefully be satisfying enough to my creative ambitions but doable for my technical abilities and not overwhelming. The ‘Snow Season’ piece, in its effective simplicity, was also reassuring—I know now to not be so concerned by all the different features and accessories I’m potentially omitting, those skills I may not be able to shove into one single piece. It does not have to be a perfectly ambitious showcase, but can instead be more effective in its polished simplicity.
 
-## * Reflection on Assessment 2 Feedback (week 8) <a id="feedback"></a>
-Create a dot-point summary of where you are at and what you need to get done
+## Reflection on Assessment 2 Feedback + Where I'll Go From Here (week 8)<a id="feedback"></a>
+
+(A reminder that I did my presentation remotely)
+
+I'm the kind of worker who likes to focus on one things at a time, and go deep into that before progressing to the next stage. Since my styling and code was a big hurdle, I chose to figure most of htat out first. Now that the styling and Twine code is less of a concern, I know now it’s time to delve fully into the writing portion of the piece. For the time being, I have started writing my text physically in a notebook, and then transferring it into my word document table/story map while polishing the text. 
+
+It feels strange to have the actual writing be the last focus of a writing class, but I’ve mapped out how the piece will progress enough in my head to the point that I believe I’ll be able to place the text into my story map without issue. I will work to refine the worldbuilding and narrative in the coming weeks.
+
 
 ## * Reflection on Workshop (week 9) <a id="workshop"></a>
 <strong>Today we will continue work on the creative development of your piece. You will work in small groups to workshop your concept and prototype pages asking your peers to consider the same questions you considered yourself last week:
@@ -66,9 +72,5 @@ how does the digital feed into this momentum?
 what suggestions can you make for the reader experience?
 Requirement for final folio (200 words minimum - can be done any time this week) Update your folio with a summary and reflection on the feedback you recieved and dot points for next steps with planned dates for doing it.</strong>
 
-## * Author Website Reflection (week 9) <a id="author"></a>
-
-
-
- "I went straight to this because ___"
- Developed an idea pretty early in
+## Author Website Reflection (week 9) <a id="author"></a>
+The idea of putting myself out there as a writer is daunting, especially as someone who doesn't use social media, but it's good to know I have a basic website I can use to refer to my work in the future. It's good to know I have the skills to upkeep it myself in the future. 

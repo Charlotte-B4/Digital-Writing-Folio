@@ -6,7 +6,7 @@
 - [Notes on Shade](#shade)<br>
 - [Beyond Taxonomy](#taxonomy)<br>
 - *[Oulipo](#oulipo)<br>
-- *[Perspectives on ergodic literature](#ergodic)<br>
+- *[No senses of an ending](#ending)<br>
 - [On savoir-faire](#savoir-faire)<br>
 - [Poetic Playlands](#playlands)<br>
 
@@ -58,7 +58,7 @@ The note of digital writing being like an instrument the ‘user could be said t
 
 ## * Oulipo : a primer of potential literature (Introduction) - translated and edited by Warren F. Motte, Jr. <a id="oulipo"></a>
 
-## * Cybertext : perspectives on ergodic literature by Espen J. Aarseth. <a id="ergodic"></a>
+## * No senses of an ending : hypertext aesthetics by Espen J. Aarseth. <a id="ending"></a>
 
 ## On savoir-faire by Emily Short <a id="savoir-faire"></a>
 This text explores the very interesting puzzle mechanic/magic system of Emily Short’s (2007) own interactive fiction text <em>Savoir-Faire</em>, which requires its reader to blend different objects together as a means of progressing its text-based story. I have always
