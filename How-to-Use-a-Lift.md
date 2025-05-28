@@ -10,6 +10,8 @@ Final Build:
 -Text writing initially done by hand. Then transferred into a table in a word document that I used as a story map.
 -Twine map. - the function of progressing through the lift.
 
+## Written Story Map
+
 
 
 ## Development Hurdles
@@ -45,7 +47,8 @@ Chatgpt didn’t help – well it did, but not in the way I wanted it to. It use
 Started with Jenny’s information and using www.image-map.net/ to get coordinates. After that point, knew the rest of her information wouldn’t work since it was tailored to Harlowe, not Sugarcube.
 
 Found out how to format the code for a Sugarcube image map from this post post on the Twine Games reddit forum. Map worked by this point, issue now was with resizing the image map.
-https://www.reddit.com/r/twinegames/comments/7egemj/using_image_mapping_in_twine_sugar_cube/ <br>
+https://www.reddit.com/r/twinegames/comments/7egemj/using_image_mapping_in_twine_sugar_cube/ 
+
 <img src="./screenshots/Lift-Story/buttons-3.png" width=50%> <br>
 
 <strong>Resizing Issue for Image Maps</strong>
@@ -57,9 +60,25 @@ The bottom of the page contains pastable Javascript which worked 
 ‘The following script, courtesy of @fg109 on the Twine Discord can automatically resize the image map when the image resizes. Note that this code is for SugarCube, and would need adjusting to work on other formats.’
 From there, I was able to adjust the image to a size and position consistent with the rest of my passages thus far
 
-<strong>Final Image Maps</strong> <br>
+<strong>Final Image Maps</strong>
+
 <img src="./screenshots/Lift-Story/buttons-4.png" width=50%> <br>
 <img src="./screenshots/Lift-Story/buttons-5.png" width=50%> <br>
 <img src="./screenshots/Lift-Story/buttons-6.png" width=50%> <br>
 
 ### Background Change for Single Passage
+To add an additional otherworldly sense to Level 5, the climactic passage right before the ending of the piece, I decided I wanted the background of the page to change to white. I first attempted this by adding a CSS ID within the class styling I already had for each standard screen. What this ended up doing was only changing the background colour for the style boxes of the text and image.
+
+<img src="./screenshots/Lift-Story/background-1.png" width=50%> <br>
+<img src="./screenshots/Lift-Story/background-2.png" width=50%> <br>
+
+I solved this by realising that style changes didn't have to happen in the greater style document, and could instead be applied within the passage itself.
+
+<br><img src="./screenshots/Lift-Story/background-3.png" width=50%> <br>
+<img src="./screenshots/Lift-Story/background-4.png" width=50%> <br>
+
+### Phone Text 
+I knew I wanted a typing animation effect to trigger when you answer the phone, but I also knew I didn't have the javascript knowledge to apply this myself. I ended up using a tutorial from this article: https://medium.com/@aayushpatniya1999/how-to-create-a-typing-effect-for-displaying-text-on-a-webpage-771b69440b61 <br>
+
+<img src="./screenshots/Lift-Story/phone-1.png" width=50%>
+

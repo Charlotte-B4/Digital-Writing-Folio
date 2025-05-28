@@ -1,11 +1,11 @@
 # Reflections
 - [Initial Thoughts](#thoughts)<br>
-- * [Defining E-Lit](#defining)<br>
+- [Defining E-Lit](#defining)<br>
 - [Reflection - Coding and Coding Playground](#playground)<br>
 - [Learning Twine](#twine)<br>
 - [Reflection - Previous Student Works](#previous)<br>
 - [Reflection - Prototype Feedback](#feedback)<br>
-- * [Reflection - Workshopping](#workshop)<br>
+- [Reflection - Workshopping](#workshop)<br>
 - [Author Website](#author)<br>
 
 ## Initial Thoughts (week 1) <a id="thoughts"></a>
@@ -16,10 +16,18 @@ I’ve also begun to look back more broadly on my roots in writing. I started wr
 
 Before this week I believed I was completely new to the area of digital writing, but I’ve realised that my creative history suggests I have a natural interest in experimenting with technology to create and facilitate my storytelling.
 
-## * Defining Electronic Literature (week 3 exercise) <a id="defining"></a>
-500 - 750 words.
-<strong>What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read? How are those elements meaningful? How are the works read differently from print literature? How is electronic literature different from print literature? What are the qualities of the works we might consider as qualities of electronic literature?</strong>
-The elements I read in these texts depended on the individual texts, them being so different from each other. Since "The Gathering Cloud" is a poem scape, I read passages of the piece multiple times in non-linear orders, trying to make sure I didn't miss anything. This felt fairly similar to how I would've read a print version of this piece, since I naturally read poetry in nonlinear ways. I think the digital quality is largely favoured in that it contributes to the piece's ironic theme of technology's environmental impact.
+## Defining Electronic Literature (week 3 exercise) <a id="defining"></a>
+The elements I read in these texts depended on the individual texts, them being so different from each other. 
+
+"First Draft of the Revolution" by Emily Short and Liza Daly is the clearest example of this, since it uses hyperlinks which allow the reader to edit the text of the letters that they, from the perspective of the main character, are writing. This is a very meaningful digital element of the piece, which provides subtle insight into the characters and their dynamics in a psychologically fascinating way. The ability adds a new layer to the idea that a story should be shown, not told, in a way that may not be as effective in a traditional narrative.
+
+The piece “Taroko Gorge” by Nick Monfort s a poetry generator that produces lines down the page continuously. It acts like a conveyor belt, cycling lines up until they are out of existence. The poem emulates a river with the way words flow fluidly and unpredictably. The reconstruction of lines also shows the fluid way everything is connected. The tools used for this poem appear similar to the tools many physical poems use, for example, onomatopoeia is often used in attempt to recreate and emulate a sound, and attempt to place the reader into the experience of the poem itself. Therefore, I see Monfort’s poem like traditional poem in this sense, but one which uses the new technology available to us to manifest this in a new and innovative way. 
+
+Since "The Gathering Cloud" by JR Carpenter is a poem scape, I read passages of the piece multiple times in non-linear orders, trying to make sure I didn't miss anything. More elements, lines of writing and images, are added to the page the longer the reader stays on it. This felt fairly similar to how I would've read a print version of this piece, since I naturally read poetry in nonlinear ways. I think the digital quality is largely favoured in that it contributes to the piece's ironic theme of technology's environmental impact. I found out after reading this piece that it is a hybrid work and also has a print version, which made sense considering these thoughts. 
+
+“Shade” by Andrew Plotkin acts like a traditional choose-your-own-adventure style text, but the digital quality allows much more choice and flexibility from the reader than would otherwise be possible. The reader feels as if they are able to physically move through the space and control it in a way, shifting their own position in the story to dictate the directions the story takes, the order the story progresses, and its eventual ending.
+
+The key difference between print and digital literature I’ve realised so far is the text's ability to not just progress, but to shift and change in many different ways. Where Carpenter and Monfort’s poems move and change physically on the screen as a part of their viewing experience of the digital format, Plotkin and Short’s pieces allow the reader to shift and dictate the story themselves.
 
 ## Reflection on Learning Code, and the Coding Playground Task <a id="playground"></a>
 <strong>How do you feel about coding now (vs week 1)?</strong><br>
@@ -63,14 +71,10 @@ I'm the kind of worker who likes to focus on one things at a time, and go deep i
 It feels strange to have the actual writing be the last focus of a writing class, but I’ve mapped out how the piece will progress enough in my head to the point that I believe I’ll be able to place the text into my story map without issue. I will work to refine the worldbuilding and narrative in the coming weeks.
 
 
-## * Reflection on Workshop (week 9) <a id="workshop"></a>
-<strong>Today we will continue work on the creative development of your piece. You will work in small groups to workshop your concept and prototype pages asking your peers to consider the same questions you considered yourself last week:
+## Reflection on Workshop (week 9) <a id="workshop"></a>
+The version of my piece I workshopped in class introduces the framework of the piece, the technological space of traversing the lift as the reader, and the media usage of the visuals and audio. I also have a basic outline of the story’s plot, but like in my feedback reflection, my priority now is on developing the writing itself. Workshoppers found the piece entertaining to read and progress through, mainly due to the lift functionality that lets them choose the order they progress through the tower. In that sense, I believe this digital function is what drives the momentum of my piece.
 
-What are the themes and ideas the piece is exploring?
-what drives the reader’s momentum through the piece?
-how does the digital feed into this momentum?
-what suggestions can you make for the reader experience?
-Requirement for final folio (200 words minimum - can be done any time this week) Update your folio with a summary and reflection on the feedback you recieved and dot points for next steps with planned dates for doing it.</strong>
+This will help develop the theme of my piece, that being social anxiety as told via one’s progress through a surrealist location. At this stage, I intend for the writing to have a more poetic/figurative style, to add to the surrealist sense I wish to convey. The rest of my story will be mapped out outside of the Twine system, but it will be important to make sure the writing works in tandem with the digital space, and the reader’s momentum and engagement with the piece isn’t blocked at any point. Adding to this, it will also be important to keep the lengths of the main, poetic passages consistent.
 
 ## Author Website Reflection (week 9) <a id="author"></a>
 The idea of putting myself out there as a writer is daunting, especially as someone who doesn't use social media, but it's good to know I have a basic website I can use to refer to my work in the future. It's good to know I have the skills to upkeep it myself in the future. 
