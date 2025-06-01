@@ -1,7 +1,8 @@
 # <em>How to Use a Lift</em>
 ## Overview 
+Link to Final Build: https://charlotteburnett.github.io/How-to-Use-a-Lift/
 
-Final Build: 
+
 
 ## How it Works
 -Developed in Twine 
@@ -11,8 +12,11 @@ Final Build:
 -Twine map. - the function of progressing through the lift.
 
 ## Written Story Map
+### Earliest Version - Figuring Out The Structure
 
+### Final Twine Map
 
+### Final Script (Word Table Format)
 
 ## Development Hurdles
 ### Page Formatting

@@ -70,8 +70,7 @@ I'm the kind of worker who likes to focus on one things at a time, and go deep i
 
 It feels strange to have the actual writing be the last focus of a writing class, but I’ve mapped out how the piece will progress enough in my head to the point that I believe I’ll be able to place the text into my story map without issue. I will work to refine the worldbuilding and narrative in the coming weeks.
 
-
-## Reflection on Workshop (week 9) <a id="workshop"></a>
+## Reflection on Workshopping (week 9) <a id="workshop"></a>
 The version of my piece I workshopped in class introduces the framework of the piece, the technological space of traversing the lift as the reader, and the media usage of the visuals and audio. I also have a basic outline of the story’s plot, but like in my feedback reflection, my priority now is on developing the writing itself. Workshoppers found the piece entertaining to read and progress through, mainly due to the lift functionality that lets them choose the order they progress through the tower. In that sense, I believe this digital function is what drives the momentum of my piece.
 
 This will help develop the theme of my piece, that being social anxiety as told via one’s progress through a surrealist location. At this stage, I intend for the writing to have a more poetic/figurative style, to add to the surrealist sense I wish to convey. The rest of my story will be mapped out outside of the Twine system, but it will be important to make sure the writing works in tandem with the digital space, and the reader’s momentum and engagement with the piece isn’t blocked at any point. Adding to this, it will also be important to keep the lengths of the main, poetic passages consistent.

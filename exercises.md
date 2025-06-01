@@ -16,7 +16,7 @@ Other Poem Exercises: <br>
 
 
 ## Learning Twine
-https://charlotte-b4.github.io/Learning-Twine/ <br>
+https://charlotteburnett.github.io/Learning-Twine/ <br>
 Screenshot - Screen 1 <br>
 <img src="./screenshots/Learning-Twine/learning-twine-screen1.png" width=50%> <br>
 Screenshot - Screen 2 <br>
