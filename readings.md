@@ -1,12 +1,12 @@
 # Readings
-- [ELC Responses](#ELC)<br>
+- [ELC Responses (exercise)](#ELC)<br>
 - [What is it?](#Hayles)<br>
 - [“Decolonize” E-Literature?](#weed)<br>
 - [Digital poesis impulse](#impulse)<br>
 - [Notes on Shade](#shade)<br>
 - [Beyond Taxonomy](#taxonomy)<br>
-- *[Oulipo](#oulipo)<br>
-- *[No senses of an ending](#ending)<br>
+- [Oulipo](#oulipo)<br>
+- [No senses of an ending (exercise)](#ending)<br>
 - [On savoir-faire](#savoir-faire)<br>
 - [Poetic Playlands](#playlands)<br>
 
@@ -17,7 +17,7 @@ This piece combines the written poetry with government-created images. It opens 
 Overall I found the experience of this fictional story quite nostalgic and moving, in no small part due to the sensory addition of its digital elements.
 
 ### Volume 2 piece - Entre Ville by J.R. Carpenter, 2006 
-This is another work by Carpenter. It similarly utilises imagery and sound. It is navigated through hyperlinks, but in a much more complex way to the last work, and in a way which I found fascinating. It presents the page of a diary, with a scrolling, written poem. The rest of the page features various images which can alter upon hover and act as hyperlinks—they open new windows, as if zooming in on that feature in a way, and download a relevant audio file with sound effects to your computer.
+This is another work by J.R. Carpenter. It similarly utilises imagery and sound. It is navigated through hyperlinks, but in a much more complex way to the last work, and in a way which I found fascinating. It presents the page of a diary, with a scrolling, written poem. The rest of the page features various images which can alter upon hover and act as hyperlinks—they open new windows, as if zooming in on that feature in a way, and download a relevant audio file with sound effects to your computer.
 
 ### Volume 3 piece - First Draft of the Revolution by Emily Short and Liza Daly, 2012
 It took me some time to figure out how this text worked, with the hyperlinks and the whole concept of rewriting the letters, but once I did, I found the whole experience of this text very interesting. Through the experience of umming and ahhing over rewrites, it showed the characters and their relationships in a way that felt intuitive. Whether it was intended or not, I also found the fantasy element of the letters being transported instantly to be ironic against the constant rewriting, because I assumed that the person at the other end would be able to read different edits in real time. I guess the story, despite being text based, benefits from the digital form due to how it could symbolise the instantaneity of digital messaging.
@@ -26,48 +26,48 @@ It took me some time to figure out how this text worked, with the hyperlinks and
 Yet another piece by Carpenter. I found the environmental angle fascinating—where is this digital internet cloud actually being stored? At first glance, the piece looks as if it could be replicated physically, only consisting of written words and collage images; however, the longer you stay on a page, the more digital nuances you notice, such as animations, and images which only appear on the page after a certain amount of time. Seeing as the piece is digital, and stored in the cloud itself, there is also an additional layer of irony that this is now a necessary method of getting this environmental message across.
 
 ## Electronic Literature: What is it? by N. Katherine Hayles <a id="Hayles"></a>
-What sets digital writing apart from simply being a digitised version of an analogue work, according to this text, is that it is “digital-born”—created on and to be read on a computer from the start. Still, this raises an interesting question about where the line is drawn between the two. If a piece appears similar enough to a traditional print work, not digital enough, is it truly a piece of electronic literature?
+What sets digital writing apart from simply being a digitised version of an analogue work, according to this text, is that it is created on and to be read on a computer from the start. Still, this raises an interesting question about where the line is drawn between the two. If a piece appears similar enough to a traditional print work, not digital enough, is it truly a piece of electronic literature?
  
 N. Katherine Hayles categorises the periods of electronic literature into three generations, the first being pre-internet, the second being the early internet post 1995. It’s obvious in hindsight that the generations of electronic literature would’ve only emerged in the last few decades, but it is still fascinating to see how quickly it has evolved alongside the digital age. 
  
-In class, we also discussed the third-generation of e-literature that we are currently considered to be in. It considered the rise of social media in our society. The involvement of social media in the equation complicates the definition further. A post to social media is “digital-born”, but at what stage is that considered e-literature?
+In class, we also discussed the third-generation of e-literature that we are currently considered to be in. It considered the rise of social media in our society. The involvement of social media in the equation complicates the definition further. A post to social media is '“digital-born”' (Hayles, 2005), but at what stage is that considered e-literature?
 
 ## “Decolonize” E-Literature? On Weeding the E-lit Garden by Kathi Inman Berens <a id="weed"></a>
-This piece explores the intriguing perspectives on the categorisation of e-literature, especially in its broader third generation. It talks about the culture of recirculation and remixing dominant on social media, and wonders whether this process of anonymising an original author is rightful grounds to disconnect it from the category of e-literature. This also notes a flaw in e-literature’s integration with academia, since that ‘legitimacy’ requires clear authorship.
+This piece,  explores the intriguing perspectives on the categorisation of e-literature, especially in its broader third generation. It talks about the culture of recirculation and remixing dominant on social media, and wonders whether this process of anonymising an original author is rightful grounds to disconnect it from the category of e-literature. This also notes a flaw in e-literature’s integration with academia, since that <em>legitimacy</em> requires clear authorship.
 
 With how widespread social media is, it is also debated whether authorial intention is required to legitimise e-literature, perhaps since a lack of this feels like a threat to the effort and intention of the field. Of course, the elitist issues with academia as a whole can also be examined.
 
 A final perspective noted in this piece is whether e-literature should be separated from the wider literary sphere. In such a digital age, the two are more entwined than ever, but should that separation have existed in the first place?
 
 ## Digital poesis impulse: A methodology of creative coding with GPT as co-pilot by Jenny Hedley <a id="impulse"></a>
-Jenny Hedley’s (2024:1) essay describes coding as an ‘iterative practice that builds upon itself, akin to solving a logic puzzle’. This is an idea I have felt since I began this subject, and started to learn basic code—I hope the digital writing study will help to satiate the logical half of my brain, whilst also offering countless creative possibilities.
+Jenny Hedley’s (2024, p. 1) essay describes coding as an ‘iterative practice that builds upon itself, akin to solving a logic puzzle’. This is an idea I have felt since I began this subject, and started to learn basic code—I hope the digital writing study will help to satiate the logical half of my brain, whilst also offering countless creative possibilities.
 
 The text talks about the possibilities of bringing together a collage of different writing/media elements for the creation of a piece, and allowing meaning to be created from that chaos. I see how this could potentially bring a sense of logic to certain chaotic bits of writing that might otherwise feel overwhelming.
 
 ## Shade by Andrew Plotkin | Enlightening Interactive Fiction: Andrew Plotkin’s Shade by Jeremy Douglass <a id="shade"></a>
 Shade was my first time reading an interactive fiction of this kind. I was able to progress through the whole piece by pulling out some video game knowledge. I got extremely immersed in the surrealist mystery of the story, especially in the way little titbits of unease would subtly weave its way into your observations. I enjoy writing strange and surrealist elements myself, so I loved learning how this might be creatively applied though the digital medium. 
 
-I found that Shade’s interactivity upped its suspense, since these titbits were all the culmination of actions that you had dictated. I found myself getting worried, for example, when I went to ‘check’ something, but as the reader, I had to pull the trigger to find out what would happen next. Jeremy Douglass’ (2008) essay on Shade notes how the piece lures you to not trust your own eyes, the details that you are provided. While a Choose Your Own Adventure book can offer this level of interactivity to an extent, the technical capabilities and myriads of choices in Shade mean there isn’t time for that illusion of choice to be broken.
+I found that Shade’s interactivity upped its suspense, since these titbits were all the culmination of actions that you had dictated. I found myself getting worried, for example, when I went to <em>check</em> something, but as the reader, I had to pull the trigger to find out what would happen next. Jeremy Douglass’ (2008) essay <em>Enlightening Interactive Fiction: Andrew Plotkin’s Shade</em> notes how the piece lures you to not trust your own eyes, the details that you are provided. While a Choose Your Own Adventure book can offer this level of interactivity to an extent, the technical capabilities and myriads of choices in Shade mean there isn’t time for that illusion of choice to be broken.
 
-Douglass (2008) also notes how a use of second person assists with a reader’s immersion, since even a first-person perspective ultimately points to a separate character in most of our minds, like we are listening to the narration of another person versus becoming that person. Like embodying a role in acting, interactive fiction is an ‘invitation to step into a role on a stage’ (Douglass 2008).
+A use of second person assists with a reader’s immersion, since even a first-person perspective ultimately points to a separate character in most of our minds, like we are listening to the narration of another person versus becoming that person. Like embodying a role in acting, interactive fiction is an ‘invitation to step into a role on a stage’ (Douglass, 2008).
 
-## 'Beyond Taxonomy: Digital Poetics and the Problem of Reading' by Talan Memmott <a id="taxonomy"></a>
-I like definitions—they let me feel in full control of my knowledge, without caveats or fear of imperfections. A point of confusion coming into this subject was what constituted digital writing. This reading helped assure that it wasn’t just me, but that digital writing can be difficult to define in general, due to the diverse possibilities offered by technology. The piece emphasises the usefulness of taxonomy in offering a field critical legitimacy, but my personal takeaway from this text was on the fluidness of digital writing, and that I should worry less about finding the ‘correct’ answer, and let my creativity take over within the practice.
+## Beyond Taxonomy: Digital Poetics and the Problem of Reading by Talan Memmott <a id="taxonomy"></a>
+I like definitions—they let me feel in full control of my knowledge, without caveats or fear of imperfections. A point of confusion coming into this subject was what constituted digital writing. This reading helped assure that it wasn’t just me, but that digital writing can be difficult to define in general, due to the diverse possibilities offered by technology. The piece emphasises the usefulness of taxonomy in offering a field critical legitimacy, but my personal takeaway from this text was on the fluidness of digital writing, and that I should worry less about finding the <em>correct</em> answer, and let my creativity take over within the practice.
 
-The note of digital writing being like an instrument the ‘user could be said to play,’ was a fascinating comparison to interactivity in writing. It sparked ideas for me of how digital fiction may allow for new avenues in drawing a reader into a piece, providing a perspective that may not be obtainable through prose alone. Perhaps it acts almost like a midway point between the purely imaginative/mental experience of a story, and a physical, acted, real-world experience.
+The note of digital writing being like an instrument the ‘user could be said to <em>play</em>’ (Memmott, 2006, p. 294), was a fascinating comparison to interactivity in writing. It sparked ideas for me of how digital fiction may allow for new avenues in drawing a reader into a piece, providing a perspective that may not be obtainable through prose alone. Perhaps it acts almost like a midway point between the purely imaginative/mental experience of a story, and a physical, acted, real-world experience.
 
-## * Oulipo : a primer of potential literature (Introduction) - translated and edited by Warren F. Motte, Jr. <a id="oulipo"></a>
+## Oulipo : a primer of potential literature (Introduction) - translated and edited by Warren F. Motte, Jr. <a id="oulipo"></a>
+This text explores the use of constraints as a tool for generating creative works. More specifically, it recounts the <em>Oulipo</em> group, which intersected mathematics and literacy, and their early use of algorithms in the mid-late 1900s. It raises questions on experimentalism, and the way the standards of the Literary Canon suppresse this and thus suppresse innovation in literature. Constraints such as those offered via the digital writing realm can potentially restrict that writing from the ideal of gaining the valued reputation literature holds. At the same time, it could be liberating from the Canon which is constraining in and of itself.
 
-## * No senses of an ending : hypertext aesthetics by Espen J. Aarseth. <a id="ending"></a>
+## No senses of an ending : hypertext aesthetics by Espen J. Aarseth. <a id="ending"></a>
+This text by Epsen J. Aarseth covers how hypertext fiction subverts the conventional ideals of the narrative because of its ergodic element. It requires the reader to participate in and dictate the direction of the text. In a work with many paths and branches, the reader ‘must scrutinize the links and venues in order to avoid meeting the same text fragments over and over again’ (Aarseth, 1997, p. 78). Even if a work is linear, the use of hyperlinks still positions the reader in this way - we become aware of the speed and flow we are creating for a text, and as such, how we are responding to the piece. 
+
+Since ergodic literature requires the reader to participate in the text, this could be seen as a form of co-authorship. This is unconventional for the world of literature, which values having identifiable authors. It does seem unfair to place such an emphasis on readers, when a writer works tirelessly to produce that work whilst a reader consumes. Maybe it’s narcissistic that I believe this, since I have just started work on my own hypertext piece, but I know the fast and mindless way I consume a lot of media nowadays, especially digital media, and it's hard to position a consumer on such level.
+
+At the same time, the goal of writers is to pass on their ideas to others. Ergodic literature has the possibility to of creating connections between a work and its reader unseen in the traditional narrative, by setting the stage for them to act within the story as a player themselves. It also has the possibility of connecting to a wider audience as well – while many readers may have the imaginative ability to empathise with and feel as if they are placing themselves directly in a story, many do not. Literary tools like hypertext fiction have the potential to act as the bridge to this. 
 
 ## On savoir-faire by Emily Short <a id="savoir-faire"></a>
-This text explores the very interesting puzzle mechanic/magic system of Emily Short’s (2007) own interactive fiction text <em>Savoir-Faire</em>, which requires its reader to blend different objects together as a means of progressing its text-based story. I have always
-loved video games and their different methods of telling stories—where the actions
-you do, the puzzles you solve, all provide a sense of momentum and reward for
-the next note of story you will get to experience in a video game. It’s interesting
-to see the scope that a text such as this can take, using that mechanic of
-progression but delving deeper into that realm of story because of your efforts
-as the reader. 
+This text explores the very interesting puzzle mechanic/magic system of Emily Short’s (2007) own interactive fiction text <em>Savoir-Faire</em>, which requires its reader to blend different objects together as a means of progressing its text-based story. I have always loved video games and their different methods of telling stories—where the actions you do, the puzzles you solve, all provide a sense of momentum and reward for the next note of story you will get to experience in a video game. It’s interesting to see the scope that a text such as this can take, using that mechanic of progression but delving deeper into that realm of story because of your efforts as the reader. 
 
 ## Poetic Playlands: Poetry, Interface, and Video Game Engines by Jason Nelson <a id="playlands"></a>
 Interestingly, this essay by Jason Nelson (2021) touched on the topic similar to the one I posed at the end of my case study assignment. I wondered how, since many people find traditional poetry difficult to read, digital and multimedia poetry might make this a more accessible form. 
